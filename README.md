@@ -1,0 +1,1 @@
+A bookmarker app, that saves and deletes bookmarked URLs in localStorage
